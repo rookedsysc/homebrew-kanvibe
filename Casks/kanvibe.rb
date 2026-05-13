@@ -7,6 +7,8 @@ cask "kanvibe" do
   desc "AI agent task management Kanban board"
   homepage "https://github.com/rookedsysc/kanvibe"
 
+  depends_on :macos
+
   app "KanVibe.app"
 
   zap trash: [
