@@ -1,6 +1,6 @@
 cask "kanvibe" do
-  version "1.5.0"
-  sha256 "18cf2c8aa5f935166ed12ebf8aa1334476069dca79fd2c97f692c20f2d78c65a"
+  version "1.5.1"
+  sha256 "214d1bbbee0ffdddebf5278a7d87313bbcf3ca911d8b636d883a971d676b86b7"
 
   url "https://github.com/rookedsysc/kanvibe/releases/download/#{version}/KanVibe-#{version}.dmg"
   name "KanVibe"
